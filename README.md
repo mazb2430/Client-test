@@ -1,6 +1,8 @@
 # Client-test
 The program generates random numbers and sorts them in ascending order when clicking the sort button. The save functions is working through a generated text-file, whcih it is reading to and from and it saves automatically evry time you generates new numbers. 
 
+The source code is in the src folder and in the file Program.java. 
+
 To run/execute the program: 
 1. download it as a zip from github
 2. save it on a location where you can reach it easily, for example at the desktop or in downloads.
