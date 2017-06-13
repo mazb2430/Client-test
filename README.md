@@ -6,7 +6,7 @@ To run/execute the program:
 2. save it on a location where you can reach it easily, for example at the desktop or in downloads.
 3. unzip the files or move the folder "Client-test-master" in the zip, out of the zip. 
 4. Open the command prompt (cmd)
-5. direct yourself in the cmd accordingly: 
+5. direct yourself in the cmd accordingly (evrything after the ">" is a command): 
 6. C:\Users\malek.zbadi>cd Downloads
 7. C:\Users\malek.zbadi\Downloads>cd Client-test-master
 8. C:\Users\malek.zbadi\Downloads\Client-test-master>cd bin
